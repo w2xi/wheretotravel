@@ -40,5 +40,5 @@ export default {
 }
 .header .right {
 	padding: 0 20px;
-}
+}  
 </style>
