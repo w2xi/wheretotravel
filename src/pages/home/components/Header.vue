@@ -1,15 +1,15 @@
 <template>
 	<div class="header">
 		<div class="left">
-			<span class="iconfont icon-fanhui"></span>
+			<i class="iconfont icon-fanhui"></i>
 		</div>
 		<div class="middle">
-			<span class="iconfont icon-sousuo"></span>
+			<i class="iconfont icon-sousuo"></i>
 			请随意输入一些内容
-		</div>s
+		</div>
 		<div class="right">
 			城市
-			<span class="iconfont icon-arrow-down-filling"></span>
+			<i class="iconfont icon-arrow-down-filling"></i>
 		</div>
 	</div>
 </template>
